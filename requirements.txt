@@ -1,0 +1,5 @@
+pandas
+matplotlib
+mysql-connector-python
+psycopg2
+streamlit
