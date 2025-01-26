@@ -1,0 +1,187 @@
+description,avg_length_of_stay
+Died in hospice (finding),17.5
+Full thickness burn (disorder),13.0
+Respiratory distress (finding),9.0
+Hypoxemia (disorder),9.0
+Pneumonia (disorder),9.0
+Sepsis caused by virus (disorder),9.0
+Acute respiratory failure (disorder),9.0
+Septic shock (disorder),6.5
+Sepsis (disorder),6.3333
+History of renal transplant (situation),6.25
+History of artificial joint (situation),4.0
+History of appendectomy (situation),3.6667
+Dependent drug abuse (disorder),3.0
+Burn injury (morphologic abnormality),2.6
+History of myocardial infarction (situation),2.0
+Gallbladder calculus (disorder),2.0
+Acute cholecystitis (disorder),2.0
+Malignant neoplasm of breast (disorder),2.0
+History of tubal ligation (situation),1.0
+Toxoplasma gondii antibody detected (finding),1.0
+Febrile neutropenia (disorder),1.0
+Obstructive sleep apnea syndrome (disorder),1.0
+Chronic paralysis due to lesion of spinal cord (disorder),1.0
+Multiple myeloma (disorder),1.0
+Carcinoma in situ of prostate (disorder),1.0
+Neoplasm of prostate (disorder),1.0
+History of coronary artery bypass grafting (situation),0.5714
+Acute allergic reaction (disorder),0.5
+Homeless (finding),0.5
+Gingival disease (disorder),0.3951
+Infection of tooth (disorder),0.2857
+Drug overdose,0.2667
+Dental filling lost (finding),0.1905
+History of seizure (situation),0.1667
+Seizure disorder (disorder),0.1667
+Primary dental caries (disorder),0.1587
+Fractured dental filling (finding),0.1538
+Concussion with no loss of consciousness (disorder),0.1429
+Leaking dental filling (finding),0.1333
+Concussion injury of brain (disorder),0.1111
+Housing unsatisfactory (finding),0.1
+Acute infective cystitis (disorder),0.0833
+Abnormal findings diagnostic imaging heart+coronary circulat (finding),0.0769
+Loose dental filling (finding),0.0714
+Loss of teeth (disorder),0.0625
+Received higher education (finding),0.0161
+Acute viral pharyngitis (disorder),0.0125
+Part-time employment (finding),0.011
+Limited social contact (finding),0.0097
+Social isolation (finding),0.0093
+Gingivitis (disorder),0.0069
+Stress (finding),0.0064
+Medication review due (situation),0.0054
+Full-time employment (finding),0.0035
+Educated to high school level (finding),0.0
+Chronic sinusitis (disorder),0.0
+Chronic low back pain (finding),0.0
+Chronic pain (finding),0.0
+Past pregnancy history of miscarriage (situation),0.0
+Not in labor force (finding),0.0
+Normal pregnancy (finding),0.0
+Unemployed (finding),0.0
+Whiplash injury to neck (disorder),0.0
+Injury of neck (disorder),0.0
+Victim of intimate partner abuse (finding),0.0
+Sprain of ankle (disorder),0.0
+Sprain (morphologic abnormality),0.0
+Laceration of forearm (disorder),0.0
+Laceration - injury (disorder),0.0
+Acute bronchitis (disorder),0.0
+Concussion with loss of consciousness (disorder),0.0
+Body mass index 30+ - obesity (finding),0.0
+Alveolitis of jaw (disorder),0.0
+Pre-eclampsia (disorder),0.0
+Viral sinusitis (disorder),0.0
+Essential hypertension (disorder),0.0
+Laceration of hand (disorder),0.0
+Only received primary school education (finding),0.0
+Seasonal allergic rhinitis (disorder),0.0
+Refugee (person),0.0
+Reports of violence in the environment (finding),0.0
+Risk activity involvement (finding),0.0
+Fracture of clavicle (disorder),0.0
+Fracture of bone (disorder),0.0
+Acute bacterial sinusitis (disorder),0.0
+Contact dermatitis (disorder),0.0
+Otitis media (disorder),0.0
+Torus mandibularis (disorder),0.0
+Fibromyalgia (disorder),0.0
+Prediabetes (finding),0.0
+Anemia (disorder),0.0
+Metabolic syndrome X (disorder),0.0
+Has a criminal record (finding),0.0
+Idiopathic atrophic hypothyroidism (disorder),0.0
+Complete miscarriage (disorder),0.0
+Miscarriage in first trimester (disorder),0.0
+Diabetes mellitus type 2 (disorder),0.0
+Hypertriglyceridemia (disorder),0.0
+Hyperglycemia (disorder),0.0
+Facial laceration (disorder),0.0
+Severe anxiety (panic) (finding),0.0
+Recurrent urinary tract infection (disorder),0.0
+Hyperlipidemia (disorder),0.0
+Ischemic heart disease (disorder),0.0
+Suspected disease caused by Severe acute respiratory coronavirus 2 (situation),0.0
+Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder),0.0
+Fever (finding),0.0
+Sputum finding (finding),0.0
+Cough (finding),0.0
+Injury of medial collateral ligament of knee (disorder),0.0
+Injury of knee (disorder),0.0
+Streptococcal sore throat (disorder),0.0
+Fracture of ankle (disorder),0.0
+Perennial allergic rhinitis (disorder),0.0
+Laceration of foot (disorder),0.0
+Laceration of thigh (disorder),0.0
+Epilepsy (disorder),0.0
+Preinfarction syndrome (disorder),0.0
+Myocardial infarction (disorder),0.0
+Tubal pregnancy (disorder),0.0
+Fracture subluxation of wrist (disorder),0.0
+Disorder of kidney due to diabetes mellitus (disorder),0.0
+Chronic kidney disease stage 2 (disorder),0.0
+Chronic kidney disease stage 3 (disorder),0.0
+Torus palatinus (disorder),0.0
+Chronic kidney disease stage 4 (disorder),0.0
+Awaiting transplantation of kidney (situation),0.0
+Osteoporosis (disorder),0.0
+Epidermal burn of skin (disorder),0.0
+Chronic kidney disease stage 1 (disorder),0.0
+Human immunodeficiency virus infection (disorder),0.0
+Sterilization requested (situation),0.0
+Loss of taste (finding),0.0
+Joint pain (finding),0.0
+Muscle pain (finding),0.0
+Vomiting symptom (finding),0.0
+Nausea (finding),0.0
+Fatigue (finding),0.0
+Sore throat (finding),0.0
+Polyp of colon (disorder),0.0
+Primary malignant neoplasm of colon (disorder),0.0
+Transport problem (finding),0.0
+Lack of access to transportation (finding),0.0
+Partial thickness burn (disorder),0.0
+Misuses drugs (finding),0.0
+Atopic dermatitis (disorder),0.0
+Perennial allergic rhinitis with seasonal variation (disorder),0.0
+Sprain of wrist (disorder),0.0
+Rheumatoid arthritis (disorder),0.0
+Blighted ovum (disorder),0.0
+Child attention deficit disorder (disorder),0.0
+Fracture of forearm (disorder),0.0
+Body mass index 40+ - severely obese (finding),0.0
+Osteoporotic fracture of bone (disorder),0.0
+Chronic congestive heart failure (disorder),0.0
+Osteoarthritis of knee (disorder),0.0
+Acute myeloid leukemia (disorder),0.0
+Complication occurring during pregnancy (disorder),0.0
+Miscarriage in second trimester (disorder),0.0
+Nasal congestion (finding),0.0
+Localized  primary osteoarthritis of the hand (disorder),0.0
+Sinusitis (disorder),0.0
+Injury of tendon of the rotator cuff of shoulder (disorder),0.0
+Impacted molars (disorder),0.0
+Sleep disorder (disorder),0.0
+Resorption of alveolar process due to dental trauma (disorder),0.0
+Chill (finding),0.0
+Wheezing (finding),0.0
+Dyspnea (finding),0.0
+Eclampsia in pregnancy (disorder),0.0
+Pulmonary emphysema (disorder),0.0
+Transformed migraine (disorder),0.0
+Traumatic dislocation of temporomandibular joint (disorder),0.0
+Aortic valve regurgitation (disorder),0.0
+Chronic obstructive bronchitis (disorder),0.0
+Shock (disorder),0.0
+Serving in military service (finding),0.0
+Suspected prostate cancer (situation),0.0
+Rupture of patellar tendon (disorder),0.0
+End-stage renal disease (disorder),0.0
+Alcoholism (disorder),0.0
+Congenital uterine anomaly (disorder),0.0
+Pyelonephritis (disorder),0.0
+Major depressive disorder (disorder),0.0
+Retinopathy due to type 2 diabetes mellitus (disorder),0.0
+Tricuspid valve stenosis (disorder),0.0
